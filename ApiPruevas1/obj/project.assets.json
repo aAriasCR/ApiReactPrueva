@@ -817,11 +817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aarias\\Desktop\\ReactForm\\ApiPruevas1\\ApiPruevas1\\ApiPruevas1.csproj",
+      "projectUniqueName": "C:\\Users\\aarias\\Desktop\\ReactForm\\ApiReactPrueva\\ApiPruevas1\\ApiPruevas1.csproj",
       "projectName": "ApiPruevas1",
-      "projectPath": "C:\\Users\\aarias\\Desktop\\ReactForm\\ApiPruevas1\\ApiPruevas1\\ApiPruevas1.csproj",
+      "projectPath": "C:\\Users\\aarias\\Desktop\\ReactForm\\ApiReactPrueva\\ApiPruevas1\\ApiPruevas1.csproj",
       "packagesPath": "C:\\Users\\aarias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aarias\\Desktop\\ReactForm\\ApiPruevas1\\ApiPruevas1\\obj\\",
+      "outputPath": "C:\\Users\\aarias\\Desktop\\ReactForm\\ApiReactPrueva\\ApiPruevas1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

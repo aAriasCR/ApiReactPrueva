@@ -26,7 +26,7 @@ namespace ApiPruevas1
         {
             services.AddCors(options =>
             {
-                options.AddPolicy("foo",
+                options.AddPolicy("myPolicy",
                 builder =>
                 {
                     builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
@@ -53,7 +53,7 @@ namespace ApiPruevas1
             app.UseStaticFiles();
 
             app.UseRouting();
-            app.UseCors("foo");
+            app.UseCors("myPolicy");
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

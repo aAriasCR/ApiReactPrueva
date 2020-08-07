@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
 namespace ApiPruevas1.Models
@@ -19,7 +20,9 @@ namespace ApiPruevas1.Models
         public static List<Persona> personaList = new List<Persona>();
 
         public static void addElement(Persona persona) {
-            persona.Id = personaList.Count + 1;
+
+
+            persona.Id = personaList.Count > 0 ? personaList.Last().Id + 1 : 1;
             personaList.Add(persona);
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3XEIKr2vH9fgXiQmkV+6CYsy2sAeyzMUUXNBglzEuwTZmNBYA7NpKJuWT63yrm6xwmULMbIwzSvNhHB1iSbGkw==",
+  "dgSpecHash": "JAeC/SxVphQX2HXLzcnWJdaK4vPj7gx22sKeFArgjDtONCvPxeyDqJLHFMH4Wb+TjFGtVz4rFW2ptAUPeaMqCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aarias\\Desktop\\ReactForm\\ApiPruevas1\\ApiPruevas1\\ApiPruevas1.csproj",
+  "projectFilePath": "C:\\Users\\aarias\\Desktop\\ReactForm\\ApiReactPrueva\\ApiPruevas1\\ApiPruevas1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aarias\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\aarias\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
